@@ -1,6 +1,10 @@
 # Behavior-Cloning
 My solution to the behavior cloning project of Udacity's self-driving nanodegree. For detail description please see my [blog post](https://www.xiaowenying.com/self-driving/2018/08/09/behavior-cloning.html) about this project.
 
+## Video Demos:
+- Track 1: https://www.youtube.com/watch?v=4VoRetdFzRk
+- Track 2: https://www.youtube.com/watch?v=JTTGcJDilx8
+
 ## File Description
 - nvidia_model.py: The definition of the model structure.
 - train_network.py: The main code for training the network.
